@@ -9,12 +9,12 @@ I am hoping for above 70% accuracy rate.
 
 #import statements
 import pandas as pd
-import quandl
+#import quandl
 import math, datetime
 import numpy as np
 from decimal import Decimal
-from sklearn import preprocessing, cross_validation, svm
-from sklearn.linear_model import LinearRegression
+#from sklearn import preprocessing, cross_validation, svm
+#from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 from matplotlib import style
 
